@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+pip-freeze.log
+
+# C
+*.o
+*.out
+*.exe
+student_manager
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SECRET KEYS - VERY IMPORTANT
+*.env
+.env
